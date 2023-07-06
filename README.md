@@ -1,7 +1,11 @@
-# Starbucks_menu
+## Starbucks_menu
 starbucks_menu를 db에 저장, 간단한 검색 기능 구현 
 
-## Install
+## Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+
+## Installation
 ```python
 pip install pymysql
 pip install pandas
