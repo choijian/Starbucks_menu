@@ -17,6 +17,6 @@ pip install tabulate
 ## 주요 기능
 <div>
   ### 모든 메뉴 조회
-  <img src="C:\Users\user\OneDrive\바탕 화면\최지안\2022년 2학기 (3학기)\데이터베이스체제\all_menu.png", height="100x", width="100px">
+  <img src="C:\db_readme\all_menu.png", height="100x", width="100px">
 </div>
 
