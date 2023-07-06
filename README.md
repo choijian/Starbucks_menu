@@ -18,7 +18,7 @@ pip install tabulate
 <div>
   <h4>모든 메뉴 조회</h4>
   <p align="center">
-  <img src="https://github.com/choijian/Starbucks_menu/assets/43908014/23703000-0004-490a-bbd9-b3c74b5826d2>
+  <img width = "1000", height = "200" src="https://github.com/choijian/Starbucks_menu/assets/43908014/23703000-0004-490a-bbd9-b3c74b5826d2">
 </p>
 </div>
 
