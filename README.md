@@ -17,6 +17,7 @@ pip install tabulate
 ## 주요 기능
 <div>
   ### 모든 메뉴 조회
-  <img src="C:\db_readme\all_menu.png", height="100x", width="100px">
+  ![image](https://github.com/choijian/Starbucks_menu/assets/43908014/c19a6deb-382d-4580-b1ef-9cd81ba68e75)
+
 </div>
 
